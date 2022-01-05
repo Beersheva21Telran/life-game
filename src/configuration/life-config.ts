@@ -1,4 +1,4 @@
 export const lifeGameConfig = {
-    "dimension": 5,
+    "dimension": 50,
     "ticInterval": 400
 }
